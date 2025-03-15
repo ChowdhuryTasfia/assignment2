@@ -22,6 +22,15 @@ body{
     position: relative;
 }
 .button{
-    background-color: #F496D1;
-    --bs-btn-padding-x:3.50rem !important;
+    background-color: #f496d243;
+    /* --bs-btn-padding-x:3.50rem !important; */
 }
+.card{
+    width: 232px;
+    height: auto;
+    background-color: transparent;
+}
+.child{
+    width: 40px;
+}
+
