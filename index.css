@@ -6,11 +6,7 @@ body{
 }
 .carousel-caption{
     bottom:3.25rem !important ;
-    position: absolute;
-}
-.carousel-item{
-object-fit: cover;
-position: relative;
+    
 }
 .halfWidth{
     width: 50%;
